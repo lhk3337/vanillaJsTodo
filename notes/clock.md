@@ -1,3 +1,5 @@
+# Time object
+
 ```javascript
 const date = new Date(); //사간에 관련 객체
 date.getDay(); //요일
